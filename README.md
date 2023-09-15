@@ -4,3 +4,4 @@ Add feature for X [qZvkDk] line 10.1
 Update documentation [wC0SII] line 12.1
 Fix issue in Y [EsPjdX] line 15.2
 Fix issue in Y [EsPjdX] line 15.3
+Update documentation [5IoSXt] line 16.1
